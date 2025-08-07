@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\MemoryGameSimulator\bin\Debug\MemoryGameSimulator.exe.config
+C:\Users\HP\source\repos\MemoryGameSimulator\bin\Debug\MemoryGameSimulator.exe
+C:\Users\HP\source\repos\MemoryGameSimulator\bin\Debug\MemoryGameSimulator.pdb
+C:\Users\HP\source\repos\MemoryGameSimulator\obj\Debug\MemoryGameSimulator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MemoryGameSimulator\obj\Debug\MemoryGameSimulator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MemoryGameSimulator\obj\Debug\MemoryGameSimulator.exe
+C:\Users\HP\source\repos\MemoryGameSimulator\obj\Debug\MemoryGameSimulator.pdb
